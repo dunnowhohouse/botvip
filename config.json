@@ -1,0 +1,175 @@
+{
+    "language": "vi",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "goibot.js",
+        "joinnoti.js",
+        "leave.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "DECAO BOT",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "100004654269040",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "sotate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.14",
+    "checktt": {
+        "maxColumn": 10
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "sim2": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "caesar": {
+        "caeserPassword": "266303"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "cardinfo": {
+        "APIKEY": "LEANHTRUONG=5hL3CMGFZFBGyoGg6KJPOdbOMH2QvwJaJhAEE4OfuJnIexBMAV=APIKEY=PLANFREE"
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200
+    },
+    "diemdanh": {
+        "cooldownTime": 3000000
+    },
+    "hitbutt": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "hép": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "img": {
+        "APIKEY": "Meew_fBWuCTnKgMatL7jjAQdJXzsgPbngOv"
+    },
+    "linkword": {
+        "APIKEY": "Meew_fBWuCTnKgMatL7jjAQdJXzsgPbngOv"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "menu": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "rank": {
+        "APIKEY": "571752207151901|AC-zG86sv6U6kpnT0_snIHBOHJc"
+    },
+    "rankup": {
+        "autoUnsend": "true",
+        "unsendMessageAfter": 10
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "sauce": {
+        "SAUCENAO_API": "61e802b1478f8e85198f28ed6ac2de6efe5d0a41"
+    },
+    "shortlink": {
+        "bitlyAPI": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "sim": {
+        "APIKEY": "Meew_fBWuCTnKgMatL7jjAQdJXzsgPbngOv"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBGQnae8h7dDeQVNDoEJlrwGhLEV-p1m48",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "slap": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "sortword": {
+        "APIKEY": "Meew_fBWuCTnKgMatL7jjAQdJXzsgPbngOv"
+    },
+    "surprise": {
+        "log": true,
+        "out": "",
+        "kickAll": "",
+        "delThread": ""
+    },
+    "teach": {
+        "APIKEY": "Meew_NtJeygtJQpUohcE5heW9nZAS195Eqc"
+    },
+    "tiktok": {
+        "APIKEY": "Meew_fBWuCTnKgMatL7jjAQdJXzsgPbngOv"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBGQnae8h7dDeQVNDoEJlrwGhLEV-p1m48"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "audio": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "banner": {
+        "APIKEY": "ntkhang"
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "videovideo": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "ytbmp4": {
+        "YOUTUBE_API": "AIzaSyAV-_gwPIG08N9ELnovGVr3jxY7NmlMfDM"
+    },
+    "youtube": {
+        "TENOR": "73YIAOY3ACT1"
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "tikvideo": {
+        "APIKEY": "a012e05802msh4ce48bff26d5c0ap151d85jsn4edde7f89de0"
+    },
+    "covid": {
+        "APIKEY": "Meew_P48yvIJngAMGKSp1ZFujXHblZibBEM"
+    },
+    "covid2": {
+        "APIKEY": ""
+    }
+}
